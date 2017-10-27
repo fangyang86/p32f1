@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+.mxproject
+psi.PO
+psi.WK3
+pcubemx.uvopt
+pcubemx.uvproj
